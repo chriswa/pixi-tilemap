@@ -15,8 +15,8 @@
       "types": "./lib/index.d.ts"
     }
   },
-  "main": "lib/index.js",
-  "module": "lib/index.mjs",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "types": "lib/index.d.ts",
   "homepage": "http://www.rpgmakerweb.com/",
   "bugs": "https://github.com/pixijs/tilemap/issues",
